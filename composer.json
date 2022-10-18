@@ -1,0 +1,16 @@
+{
+    "name": "halink/wiza-header",
+    "description": "Wiza header",
+    "autoload": {
+        "psr-4": {
+            "Halink\\WizaHeader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Huy Nguyen",
+            "email": "huynp.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
