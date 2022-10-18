@@ -1,6 +1,8 @@
 {
     "name": "halink/wiza-header",
     "description": "Wiza header",
+    "version": "v0.0.1",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Halink\\WizaHeader\\": "src/"
